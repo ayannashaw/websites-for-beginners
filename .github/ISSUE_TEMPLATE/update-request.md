@@ -10,6 +10,9 @@ assignees: rockygg
 **Description**
 Why is this update needed?
 
+**Where is the Content Located?**
+File Name, Day Number, Section, etc
+
 **Old Content**
 Text, Image, URL path, etc
 
